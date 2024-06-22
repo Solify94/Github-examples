@@ -3,7 +3,7 @@
 
 ## Cloning
 
-https://github.com/Solify94/Github-examples.git
+https://github.com/Solify94/Github-examples.gite
 
 ```sh
 git clone https://github.com/Solify94/Github-examples.git
